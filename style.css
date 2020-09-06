@@ -1,0 +1,116 @@
+* {margin: 0; padding: 0;}
+
+html, body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-nav a {
+    margin: 0 20px;
+}
+
+.signIn {
+    background: #21B573;
+    border-radius: 30px;
+    text-align: center;
+    width: 104px;
+    height: 43px;
+    color: #fff !important;
+}
+
+.main-btn {
+    background: #21B573;
+    border-radius: 33px;
+    text-align: center;
+    width: 170px;
+    height: 43px;
+    color: #fff;
+    padding: 12px 36px;
+    border: none;
+    outline: none !important;
+}
+
+.banner-wrapper {
+    height: 576px;
+}
+
+.banner-inside p:nth-child(1) {
+    color: #FD511A;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.schedule {
+    color: #FD511A;
+}
+
+
+.card-container .card {
+    border: none;
+    text-align: center;
+}
+
+.card-container .card:hover {
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.card-title {
+    color: #413960;
+    font-weight: 500px;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.card {
+    border: none;
+}
+
+.card-footer {
+    background: #fff;
+    border: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.course-title {
+    color: #413960;
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+    margin: 5% 0;
+}
+
+.footer {
+    height: 20%;
+    background: #282531;
+    color: #fff;
+    padding: 5%;
+}
+
+.e-school {
+    border-radius: 5px;
+    width: 100px;
+    height: 45px;
+    padding: 5px;
+    box-shadow: 1px 1px 20px lightgray;
+}
+
+
+.footer ul {
+    list-style: none;
+}
+
+.footer ul li a {   
+    color: #fff;
+    line-height: 30px;
+}
+
+.footer h6 {
+    font-weight: bold;
+}
+
+.second-footer {
+    background: #282531;
+    color: #fff;
+    height: 45px;
+}
